@@ -81,9 +81,9 @@ h1 {
 
 .hero {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
-    height: 400px;
+    /*height: 400px;*/
     width: 100%;
     padding: 20px;
 }
@@ -91,14 +91,12 @@ h1 {
 .left {
     display: flex;
     flex-flow: column nowrap;
-    width: 20%;
     gap: 15px;
     padding: 20px;
 }
 
 #social-proof {
     display: flex;
-    justify-content: flex-start;
     gap: 10px;
 }
 
@@ -276,7 +274,7 @@ p {
 .img-5 {
     width: 200px;
     height: 200px;
-    position: absolute;
+    /*position: absolute;*/
     z-index: -1;
     margin-bottom: 250px;
     left: 960px;
