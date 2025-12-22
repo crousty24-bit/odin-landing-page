@@ -39,7 +39,14 @@ This is the step-by-step process :
 
 
 
+* improve \& clean div structure; add <br> on header text **✅**
 * fix layout (Flexbox), preventing page to get crushed if resize : 
+
+&nbsp;	**1. removed height on section, was causing major size problems for the entire page ✅**
+
+&nbsp;	**2. fix flex layout on section 1, .header and .hero ✅**
+
+
 
 
 
