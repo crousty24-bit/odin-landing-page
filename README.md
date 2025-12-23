@@ -69,8 +69,8 @@ This is the step-by-step process :
 * **add img to the "call-to-action" section ✅**
 * **add a new section "life" : img ; title + text ✅**
 * **add new section "ship" : img ; title + text (reverse layout of "life") ✅**
-
-
+* **add new design to section "ship" with a reversed layout : img + text ✅**
+* **add img of ceo portrait to section-3 "quote"** **✅**
 
 
 
@@ -91,5 +91,5 @@ Some ideas :
 
 
 
-*Updated 22/12/2025.*
+*Updated 23/12/2025.*
 
