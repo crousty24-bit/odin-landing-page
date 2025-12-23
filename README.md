@@ -68,6 +68,7 @@ This is the step-by-step process :
 
 * **add img to the "call-to-action" section ✅**
 * **add a new section "life" : img ; title + text ✅**
+* **add new section "ship" : img ; title + text (reverse layout of "life") ✅**
 
 
 

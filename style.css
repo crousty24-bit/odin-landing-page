@@ -214,14 +214,14 @@ h3 {
     justify-content: center;
     align-items: center;
     padding: 40px;
+    gap: 20px;
 }
 
 .container-2 {
     background-color: var(--clr-light);
     display: flex;
     flex-direction: column;
-    /*align-items: center;*/
-    max-width: 800px;
+    max-width: 600px;
     width: 100%;
     padding: 20px;
     gap: 20px;
@@ -231,7 +231,7 @@ h3 {
 
 #citation {
     color: var(--clr-dark);
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 300;
     font-style: italic;
 }
@@ -241,6 +241,13 @@ h3 {
     font-size: 18px;
     font-weight: 700;
     text-align: right;
+}
+
+.portrait-ceo {
+    width: 400px;
+    max-width: 100%;
+    border: 8px solid var(--clr-dark);
+    border-radius: 10px;
 }
 
 /* Section-4 */
