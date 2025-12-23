@@ -213,28 +213,32 @@ h3 {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 20px;
 }
 
 .container-2 {
-    border: 8px solid var(--clr-sky);
-    border-radius: 10px;
+    background-color: var(--clr-light);
     display: flex;
     flex-direction: column;
-    width: 50%;
+    /*align-items: center;*/
+    max-width: 800px;
+    width: 100%;
     padding: 20px;
     gap: 20px;
+    border: 8px solid var(--clr-sky);
+    border-radius: 10px;
 }
 
 #citation {
     color: var(--clr-dark);
-    font-size: 36px;
+    font-size: 24px;
     font-weight: 300;
     font-style: italic;
 }
 
 #from {
     color: var(--clr-dark);
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 700;
     text-align: right;
 }
