@@ -50,7 +50,7 @@ This is the step-by-step process :
 
  	**- fix flex layout on section 1, .header and .hero, add a new container div ✅**
 
-&nbsp;	**- fix flex layout on section 2 to 6, the same way I did for section 1 ✅**
+ 	**- fix flex layout on section 2 to 6, the same way I did for section 1 ✅**
 
 
 
@@ -78,10 +78,11 @@ Some ideas :
 
 * add a contact page with a fake form
 * add a popup for "subscribe to our newsletter"
-* add new section : spaceship ; carrer ; partnership ;  
+* add new section : carrer ; partnership ;
 * add count animation to section-1 "already 47850 people..." to make the number go up randomly
 * add some hover effect ?
-* 
+* add background image ?
+* add nav-bar icons
 
 
 
