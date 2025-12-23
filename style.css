@@ -91,7 +91,7 @@ h1 {
 
 .left {
     display: flex;
-    flex-flow: column wrap;
+    flex-direction: column;
     gap: 15px;
     /*padding: 20px;*/
 }
