@@ -356,7 +356,8 @@ h3 {
 /* Section-6 */
 .footer {
     background-color: var(--clr-dark);
-    height: 100px;
+    min-height: 100px;
+    padding: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
